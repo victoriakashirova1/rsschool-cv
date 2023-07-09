@@ -2,10 +2,10 @@
 
 ## Contacts
 
-•	**Location**: Warsaw, Poland
-•	**Phone**: +48 883 277 304 
-•	**Email**: victoriakashirov@gmail.com
-•	**GitHub**: [victoriakashirova1](https://github.com/victoriakashirova1)
+-	**Location**: Warsaw, Poland
+-	**Phone**: +48 883 277 304 
+-	**Email**: victoriakashirov@gmail.com
+-	**GitHub**: [victoriakashirova1](https://github.com/victoriakashirova1)
 
 ## Summary
 
