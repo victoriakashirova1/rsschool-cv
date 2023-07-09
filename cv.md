@@ -2,10 +2,10 @@
 
 ## Contacts
 
--	**Location**: Warsaw, Poland
--	**Phone**: +48 883 277 304 
--	**Email**: victoriakashirov@gmail.com
--	**GitHub**: [victoriakashirova1](https://github.com/victoriakashirova1)
+- **Location**: Warsaw, Poland
+- **Phone**: +48 883 277 304 
+- **Email**: victoriakashirov@gmail.com
+- **GitHub**: [victoriakashirova1](https://github.com/victoriakashirova1)
 
 ## Summary
 
@@ -13,11 +13,11 @@ I am a team player with excellent communication skills and the ability to work i
 
 ## Skills
 
--	**HTML**
--	**CSS**
--	**Jira**
--	**Git**
--	**Confluence**
+- **HTML**
+- **CSS**
+- **Jira**
+- **Git**
+- **Confluence**
 
 ## Code Example
 
@@ -36,13 +36,13 @@ function createPhoneNumber(numbers){
 
 ## Education
 
--	**University**: Belarusian State University, Molecular Biology
--	**Courses**:
+- **University**: Belarusian State University, Molecular Biology
+- **Courses**:
   -	Epam Business Analysis
 
 ## Languages
 
--	**Russian**: native 
--	**English**: B2
--	**French**: B1
+- **Russian**: native 
+- **English**: B2
+- **French**: B1
 
